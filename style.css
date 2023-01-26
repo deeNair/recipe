@@ -1,0 +1,71 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+
+
+body{
+ background-color:#FFCEFE;
+ font-family: 'Mukta', sans-serif;
+ letter-spacing: 1px;
+ display: flex;
+ justify-content: center;
+
+}
+
+.main{
+ width:700px;
+ background-color:#FDEBED;
+ text-align: center;
+ font-family: 'Mukta', sans-serif;
+ list-style-position: inside;
+ border: 20px solid #AAE3E2;
+ 
+}
+
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 30px;
+    
+}
+
+h2{
+    padding-top: 15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+ 
+}
+
+.image{
+    
+   display:flex;
+   justify-content: center;
+}
+
+img{
+    
+    border-radius: 50%;
+    border:6px solid #AAE3E2;
+}
+ul{
+    list-style: none;
+   padding-bottom: 15px;
+}
+ol{ 
+    text-align:left;
+    padding-bottom: 15px;
+}
+
+.sec-1{
+    
+   /* background-color:#FFCEFE; */
+}
+
+.sec-2{
+    
+    background-color:#FFCEFE;
+    
+}
+.sec-3{
+    background-color:#FFCEFE;
+}
+
+
+
